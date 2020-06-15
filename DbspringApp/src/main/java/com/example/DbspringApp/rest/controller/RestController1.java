@@ -60,4 +60,15 @@ public class RestController1 {
 		return productService.findAllProducts();
 	}	
 	
+	/*{
+    "pname" : "Smart phone S10",
+    "qty" : 5,
+    "pbrand" : "Lenovo",
+    "pprice" : 8000
+}*/
+	
+	
+	
+	
+	
 }
