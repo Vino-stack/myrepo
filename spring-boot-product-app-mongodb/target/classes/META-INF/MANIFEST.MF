@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ELCOT
+Build-Jdk: 14.0.1
+Implementation-Title: spring-boot-custmomer-app-v1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.atossyntel.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-custmomer-app-v1
+Created-By: Maven Integration for Eclipse
+
